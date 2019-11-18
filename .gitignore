@@ -4,5 +4,5 @@
 __pycache__
 firstenv
 db.sqlite3
-/static
+/blog/static
 .DS_Store
